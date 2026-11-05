@@ -27,7 +27,7 @@ Reason: B applies the product rule correctly (u'v + uv'). A put the 3 and the mi
 
 FILES
 
-- [evaluation-log.md](evaluation-log.md): all 30 comparisons with verdicts
+evaluation-log.md  :all 30 comparisons with verdicts
 
 AUTHOR
 
