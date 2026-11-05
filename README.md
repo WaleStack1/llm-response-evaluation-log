@@ -27,7 +27,8 @@ Reason: B applies the product rule correctly (u'v + uv'). A put the 3 and the mi
 
 FILES
 
-evaluation-log.md  :all 30 comparisons with verdicts
+Full log: https://github.com/WaleStack1/llm-response-evaluation-log/blob/main/evaluation-log.md
+ :all 30 comparisons with verdicts
 
 AUTHOR
 
